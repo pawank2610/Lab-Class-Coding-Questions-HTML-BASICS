@@ -34,4 +34,13 @@ Each question explores different HTML concepts and can be opened directly in any
 ---
 
 ## 📖 Technologies Used
-- HTML5  
+- HTML5
+
+### 🖥️ Desktop View – Hero Section
+![Desktop Screenshot 1](https://raw.githubusercontent.com/pawank2610/WEB-DEV-ASSIGNMENT-3/main/Screenshot%202025-11-23%20124530.png)
+
+### 🖥️ Desktop View – Skills & Projects Section
+![Desktop Screenshot 2](https://raw.githubusercontent.com/pawank2610/WEB-DEV-ASSIGNMENT-3/main/Screenshot%202025-11-23%20124546.png)
+
+![Desktop Screenshot 3](https://raw.githubusercontent.com/pawank2610/WEB-DEV-ASSIGNMENT-3/main/Screenshot%202025-11-23%20124617.png)
+
